@@ -30,34 +30,23 @@ This application replicates Uber's core functionalities with modern tools and fe
 ---
 
 ## 🛠️ Setup & Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/uber-clone.git
-cd uber-clone
-Install dependencies:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/uber-clone.git
+   cd uber-clone
+   ```
+2.Install dependencies: 
+  ```bash
+  npm install
+  ```
+3.Set up environment variables: Create a .env file in the root directory
 
-bash
-Copy code
-npm install
-Set up environment variables:
-
-Create a .env file in the root directory.
-Add the following variables to the .env file:
-env
-Copy code
-NEXT_PUBLIC_CLERK_FRONTEND_API=<Your_Clerk_Frontend_API>
-NEXT_PUBLIC_STRIPE_API_KEY=<Your_Stripe_API_Key>
-NEXT_PUBLIC_NEONDB_URL=<Your_NeonDB_URL>
-Start the application:
-
-bash
-Copy code
-npx expo start --tunnel -c
-Launch the application:
-
-Scan the QR code displayed in the terminal using the Expo Go app on your mobile device.
+4.Start the application:
+  ```bash
+  npx expo start --tunnel -c
+```
+5.Scan the QR code using the Expo Go app to launch the application on your mobile device.
 
 ## 🌍 Connect With Me
 If you have any questions or want to connect, feel free to reach out:
