@@ -35,9 +35,13 @@ This application replicates Uber's core functionalities with modern tools and fe
    ```bash
    git clone https://github.com/your-username/uber-clone.git
    cd uber-clone
-2.Install dependencies: npm install
+2.Install dependencies: 
+  ```bash
+  npm install
 3.Set up environment variables: Create a .env file in the root directory 
-4.Start the application: npx expo start --tunnel -c  
+4.Start the application:
+  ```bash
+  npx expo start --tunnel -c  
 5.Scan the QR code using the Expo Go app to launch the application on your mobile device.
 
 ## 🌍 Connect With Me
