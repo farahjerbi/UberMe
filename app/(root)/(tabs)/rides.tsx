@@ -6,7 +6,7 @@ const Rides = () => {
   return (
     <SafeAreaView>
         <Text>
-            Home
+            Rides
         </Text>
     </SafeAreaView>  )
 }

@@ -6,7 +6,7 @@ const Chat = () => {
   return (
     <SafeAreaView>
         <Text>
-            Home
+            Chat
         </Text>
     </SafeAreaView>  )
 }
