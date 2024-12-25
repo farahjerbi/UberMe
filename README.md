@@ -1,7 +1,7 @@
 # 🚕 Uber Clone App
 
 Welcome to the **Uber Clone App** – a comprehensive full-stack project built using React Native, Expo, NeonDB, and cutting-edge technologies! 🚀  
-This application replicates Uber's core functionalities with modern tools and features, making it an excellent resource to master both frontend and backend development.
+This application replicates Uber's core functionalities with modern tools and features.
 
 ---
 
